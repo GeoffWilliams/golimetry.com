@@ -10,4 +10,4 @@ His goal, scored when Barcelona SC beat Estudiantes in the 1970 Copa Libertadore
 He is hallowed, mythical, and integral to the history of the Copa Libertadores.
 This video tells his story.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=4810rjVvBxM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4810rjVvBxM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
