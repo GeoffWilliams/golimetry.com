@@ -8,4 +8,4 @@ Fanatics from sides across South America often try to "tip the scales" of a matc
 The remarkable footage from the incident, shows how far passion drives football fans.
 This video tells the whole story.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=G4mnw51Z02g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G4mnw51Z02g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
