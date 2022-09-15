@@ -3,6 +3,11 @@ layout: post
 title: "Test Android Process"
 ---
 
+# What was the problem ? heading here ?
+file name too long ?
+metadata issue ?
+let us check.
+
 Posting to Jekyll via JekyllEx and a Markdown Editor 
 
 how can I edit this later in Jekyll without deleting and re committing it 
