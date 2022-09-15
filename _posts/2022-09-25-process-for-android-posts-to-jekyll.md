@@ -3,7 +3,7 @@ layout: post
 title: "How to Post from Android to Jekyll Blog"
 ---
 
-# Heading Level 1 is Posting to Jekyll via JekyllEx and a Markdown Editor
+# Heading Level 1 is Posting to Jekyll via JekyllEx and a Markdown Editor 
 
 ## Heading Level 2
 
