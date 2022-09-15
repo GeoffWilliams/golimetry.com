@@ -19,7 +19,9 @@ Eg for 25th Sept post called "Good Morning World" the post name is:
 
 2022-25-09-Good-Morning-World.md
 (Ensure the post name has .md extension)
-unsure if data is important ie if I can filename a post to the 16th if it's the 15th
+unsure if data is important ie if I can filename a post to the 16th if it's the 15th of
+
+also once you've commited, the filename cannot be changed
 
 Write the markdown in Joplin, StackIO, or even just in JekyllEx. You can preview Markdown in JekyllEx.
 I put the Markdown Cheat Sheet in Joplin and I think it's in stack. Joplin should do the job tho.
