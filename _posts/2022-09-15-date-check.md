@@ -4,9 +4,10 @@ title: "Test Whether Longer Title Will Prevent Post Changes"
 ---
 
 # What was the problem ? heading here ? no problem.
-file name too long ?
-metadata issue ?
-let us check.
+file name too long ? I can't change the filename in JekyllEx. so cannot check that. 
+metadata issue ? no apparently not since the title is longer now but still works 
+
+we will try to make a new filename copy of this with a longer filename and the same date. because one post doesn't allow editing in JekyllEx, yet it still shows up in JekyllEx and on the website. it's called (I'll check)
 
 Posting to Jekyll via JekyllEx and a Markdown Editor 
 
