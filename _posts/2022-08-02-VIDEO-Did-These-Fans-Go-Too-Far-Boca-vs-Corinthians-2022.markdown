@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "VIDEO: Did these fans go too far ? Boca, Corinthians and the 2022 Copa Libertadores"
+title:  "Video: Did these fans go too far ? Boca, Corinthians and the 2022 Copa Libertadores"
 ---
 A few weeks ago, in the early morning before the 2022 Copa Libertadores Round of 16, Boca fanatics created
 an incredible ruckus right in front of the Hotel Madero, where opposition side Corinthians were staying. 

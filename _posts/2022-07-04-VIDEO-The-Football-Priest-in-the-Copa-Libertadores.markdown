@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "VIDEO: The Football Priest in the Copa Libertadores - Juan Manuel Basurco, Father of the Blessed Boots"
+title:  "Video: The Football Priest in the Copa Libertadores - Juan Manuel Basurco, Father of the Blessed Boots"
 ---
 
 Juan Manuel Basurco was a Spanish priest, and a professional footballer. On a mission to Ecuador,
