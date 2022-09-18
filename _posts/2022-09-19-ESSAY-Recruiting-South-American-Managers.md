@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Essay: Recruiting South American Managers for English Football Clubs - The Future For Brighton and Others"
+title: "Essay: Recruiting South American Managers for English Football Clubs"
 ---
 
 ## Contents <a name="heading-contents">
