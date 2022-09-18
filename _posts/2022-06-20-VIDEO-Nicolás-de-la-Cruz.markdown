@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nicolás de la Cruz (in the Copa Libertadores) - A Rising Star"
+title:  "VIDEO: Nicolás de la Cruz (in the Copa Libertadores) - A Rising Star"
 ---
 
 Nicolás de la Cruz plays, right now, for River Plate. He is a fast, attentive, 
