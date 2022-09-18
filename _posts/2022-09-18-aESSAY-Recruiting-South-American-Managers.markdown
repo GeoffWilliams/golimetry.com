@@ -40,7 +40,7 @@ Potter came to Brighton on the 20th of May, 2019. That was his debut season in t
 
 Brighton's recruitment policies under Potter have been especially interesting - and indeed unique for a Premiere League club.
 
-Forbes Magazine, in an article last year ([Brighton Redefining Success Through Style And Signings](https://www.forbes.com/sites/jamesnalton/2021/08/30/brighton-redefining-success-through-style-and-signings/)) talked about how Brighton's Head of Player Recruitment and Analysis, Paul Winstanley, has prioritised finding young, exciting, high potential talents in leagues across the world. 
+Forbes Magazine, in an article last year ([Brighton Redefining Success Through Style And Signings](https://www.forbes.com/sites/jamesnalton/2021/08/30/brighton-redefining-success-through-style-and-signings/){:target="_blank"}) talked about how Brighton's Head of Player Recruitment and Analysis, Paul Winstanley, has prioritised finding young, exciting, high potential talents in leagues across the world. 
 
 Brighton signed Ecuadorian midfielder, Moisés Caicedo, in February of last year. At the time, Caicedo was 19 years old, a product of the youth academy of Independiente del Valle. Independiente del Valle are the current Ecuadorian domestic league champions.
 
@@ -190,4 +190,7 @@ Golimetry, was formed as a chronicle of the Copa Libertadores, and that’s our 
 <sub>[Back to top](#heading-contents)</sub>
 
 ---
-[Golimetry Homepage](golimetry.com)
+[Home](golimetry.com)<br>
+[Golimetry YouTube](youtube.com/c/golimetry)<br>
+Twitter: [@golimetry](https://twitter.com/golimetry)<br>
+Instagram: [@golimetry](https://www.instagram.com/golimetry)<br>
