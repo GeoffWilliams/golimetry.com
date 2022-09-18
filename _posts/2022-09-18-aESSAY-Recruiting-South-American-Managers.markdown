@@ -191,6 +191,6 @@ Golimetry, was formed as a chronicle of the Copa Libertadores, and that’s our 
 
 ---
 [Home](golimetry.com)<br>
-[Golimetry YouTube](youtube.com/c/golimetry)<br>
-Twitter: [@golimetry](https://twitter.com/golimetry)<br>
-Instagram: [@golimetry](https://www.instagram.com/golimetry)<br>
+Youtube: [Golimetry YouTube](https://youtube.com/c/golimetry){:target="_blank"}<br>
+Twitter: [@golimetry](https://twitter.com/golimetry){:target="_blank"}<br>
+Instagram: [@golimetry](https://www.instagram.com/golimetry){:target="_blank"}<br>
