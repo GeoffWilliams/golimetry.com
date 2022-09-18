@@ -191,7 +191,3 @@ Golimetry, was formed as a chronicle of the Copa Libertadores, and that’s our 
 
 ---
 [Golimetry Homepage](golimetry.com)
-
-
-
-
