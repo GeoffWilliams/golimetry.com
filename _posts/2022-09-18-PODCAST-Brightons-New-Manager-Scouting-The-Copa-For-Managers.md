@@ -2,7 +2,7 @@
 layout: post
 title: "Podcast: Brighton's Next Manager ? Scouting Talented Managers of South American Football"
 ---
-To access this, [Episode 4 of the podcast, via YouTube click here](https://www.youtube.com/watch?v=C97ozVnpoXI).
+To access this, [Episode 4 of the podcast, via YouTube click here](https://www.youtube.com/watch?v=C97ozVnpoXI){:target="_blank"}
 ---
 Brighton & Hove Albion are an excellent football club.
 But how can they keep moving forward, without Graham Potter, the manager who helped them to their best results in the Premier League ? 
@@ -10,9 +10,9 @@ How can other clubs, lower and middle-tier table clubs in England, grow, expand,
 Brighton - and other English clubs of comparable size - should look to managers with Copa Libertadores, and Copa Sudamericana, experience. (The Copa Sudamericana is the second-tier version of the Copa Libertadores. It is, basically, the South American equivalent of the UEFA Europa League).
 So, which managers ? 
 
-- Marcelo Gallardo at River Plate. [Click here](https://www.youtube.com/watch?v=MDo5rMWF5l4) for a video about Gallardo, from 2019.
+- Marcelo Gallardo at River Plate. [Click here](https://www.youtube.com/watch?v=MDo5rMWF5l4){:target="_blank"} for a video about Gallardo, from 2019.
 
-- Abel Ferreira at Palmeiras. ([Click here](https://www.youtube.com/watch?v=YFSzKH2JoNU) for a video about Abel Ferreira.
+- Abel Ferreira at Palmeiras. ([Click here](https://www.youtube.com/watch?v=YFSzKH2JoNU){:target="_blank"} for a video about Abel Ferreira.
 
 - Jorge Sampaoli, a rising star in Europe, who emerged as a top talent by winning the Copa Sudamericana with Universidad de Chile. (The Copa Sudamericana, is the second-tier version of the Copa Libertadores, i.e. the South American equivalent of the Europa League). He was most recently, the coach at French side Olympic Marseille, and did well there. He's a free agent, right now.
 
