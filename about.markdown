@@ -22,7 +22,7 @@ Thank you !
 ---
 
 Email Golimetry: editor@golimetry.com<br>
-Golimetry YouTube: [youtube.com/c/golimetry](youtube.com/c/golimetry)<br>
-Twitter: [@golimetry](https://twitter.com/golimetry)<br>
+Golimetry YouTube: [https://www.youtube.com/c/golimetry](Golimetry YouTube Channel)<br>
+Twitter: [@golimetry](https://www.twitter.com/golimetry)<br>
 Instagram: [@golimetry](https://www.instagram.com/golimetry)<br>
 --
