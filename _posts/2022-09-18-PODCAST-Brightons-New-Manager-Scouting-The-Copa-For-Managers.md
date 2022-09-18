@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "PODCAST: Brighton's Next Manager ? Scouting Talented Managers of South American Football"
+title: "Podcast: Brighton's Next Manager ? Scouting Talented Managers of South American Football"
 ---
-The Golimetry Podcast - Episode 4
-[Click here](https://www.youtube.com/watch?v=C97ozVnpoXI] to access the podcast via YouTube.
-
+To access this, [Episode 4 of the podcast, via YouTube click here](https://www.youtube.com/watch?v=C97ozVnpoXI).
+---
 Brighton & Hove Albion are an excellent football club.
 But how can they keep moving forward, without Graham Potter, the manager who helped them to their best results in the Premier League ? 
 How can other clubs, lower and middle-tier table clubs in England, grow, expand, and move ahead in the fiercely competitive Premier League ? 
