@@ -28,7 +28,7 @@ twitter_username: golimetry
 github_username:  golimetry
 
 # Build settings
-theme: minima
+remote_theme: wowthemesnet/jekyll-theme-memoirs
 plugins:
   - jekyll-feed
 
